@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Primera App</string>
+    <string name="etiqueta_boton_uno">Ir a segunda Actividad</string>
+    <string name="etiqueta_boton_dos">Ir a tercera actividad</string>
+    <string name="etiqueta_boton_tres">Ir a primera Actividad</string>
+    <string name="etiqueta_boton_cuatro">Incrementar</string>
+    <string name="etiqueta_boton_cinco">Decrementar</string>
+    <string name="etiqueta_boton_seis">Ir a primera actividad</string>
+</resources>
